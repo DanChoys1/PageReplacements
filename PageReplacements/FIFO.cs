@@ -11,7 +11,7 @@ namespace PageReplacements
                 return countInterruption;
             } 
         }
-
+        //
         private int[,] pageBlocks;
 
         public FIFO(int countPageBlock, int[] startPageBloks = null)
